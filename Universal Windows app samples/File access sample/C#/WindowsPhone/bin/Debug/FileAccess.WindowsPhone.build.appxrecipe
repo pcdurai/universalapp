@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>R8F9MM3</Machine>
+    <WindowsUser>cpetchim</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>F542CC6F-58DA-43AF-BF16-94776438FA63</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\WindowsPhone\bin\Debug\FileAccess.WindowsPhone.exe">
+      <PackagePath>FileAccess.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\Shared\Assets\mediumtile-sdk.png">
+      <PackagePath>Assets\mediumtile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\Shared\Assets\microsoft-sdk.png">
+      <PackagePath>Assets\microsoft-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\Shared\Assets\smalltile-Windows-sdk.png">
+      <PackagePath>Assets\smalltile-Windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\Shared\Assets\smalltile-Phone-sdk.png">
+      <PackagePath>Assets\smalltile-Phone-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\Shared\Assets\splash-Windows-sdk.png">
+      <PackagePath>Assets\splash-Windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\Shared\Assets\splash-Phone-sdk.png">
+      <PackagePath>Assets\splash-Phone-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\Shared\Assets\squaretile-sdk.png">
+      <PackagePath>Assets\squaretile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\Shared\Assets\storelogo-sdk.png">
+      <PackagePath>Assets\storelogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\Shared\Assets\tile-sdk.png">
+      <PackagePath>Assets\tile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\Shared\Assets\windows-sdk.png">
+      <PackagePath>Assets\windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\WindowsPhone\bin\Debug\Scenario1_CreateAFileInThePicturesLibrary.xbf">
+      <PackagePath>Scenario1_CreateAFileInThePicturesLibrary.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\WindowsPhone\bin\Debug\Scenario3_WriteAndReadTextInAFile.xbf">
+      <PackagePath>Scenario3_WriteAndReadTextInAFile.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\WindowsPhone\bin\Debug\Scenario4_WriteAndReadBytesInAFile.xbf">
+      <PackagePath>Scenario4_WriteAndReadBytesInAFile.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\WindowsPhone\bin\Debug\Scenario5_WriteAndReadAFileUsingAStream.xbf">
+      <PackagePath>Scenario5_WriteAndReadAFileUsingAStream.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\WindowsPhone\bin\Debug\Scenario6_DisplayFileProperties.xbf">
+      <PackagePath>Scenario6_DisplayFileProperties.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\WindowsPhone\bin\Debug\Scenario7_TrackAFileOrFolderSoThatYouCanAccessItLater.xbf">
+      <PackagePath>Scenario7_TrackAFileOrFolderSoThatYouCanAccessItLater.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\WindowsPhone\bin\Debug\Scenario8_CopyAFile.xbf">
+      <PackagePath>Scenario8_CopyAFile.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\WindowsPhone\bin\Debug\Scenario10_DeleteAFile.xbf">
+      <PackagePath>Scenario10_DeleteAFile.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\WindowsPhone\bin\Debug\Scenario11_TryToGetAFileWithoutGettingAnError.xbf">
+      <PackagePath>Scenario11_TryToGetAFileWithoutGettingAnError.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\WindowsPhone\bin\Debug\Scenario2_GetTheParentFolderOfAFile.xbf">
+      <PackagePath>Scenario2_GetTheParentFolderOfAFile.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\WindowsPhone\bin\Debug\Scenario9_CompareTwoFilesToSeeIfTheyAreTheSame.xbf">
+      <PackagePath>Scenario9_CompareTwoFilesToSeeIfTheyAreTheSame.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\WindowsPhone\bin\Debug\ScenarioList.xbf">
+      <PackagePath>ScenarioList.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\WindowsPhone\bin\Debug\Styles\Styles.xbf">
+      <PackagePath>Styles\Styles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\WindowsPhone\bin\Debug\FileAccess.WindowsPhone.xr.xml">
+      <PackagePath>FileAccess.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

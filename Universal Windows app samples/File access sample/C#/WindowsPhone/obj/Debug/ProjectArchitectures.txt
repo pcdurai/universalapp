@@ -1,0 +1,1 @@
+C:\Users\cpetchim\Documents\workspace\workspace-universalapp\Universal Windows app samples\File access sample\C#\WindowsPhone\FileAccess.WindowsPhone.csproj;neutral
